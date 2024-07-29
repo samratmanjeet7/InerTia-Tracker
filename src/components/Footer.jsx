@@ -182,7 +182,7 @@ function Footer() {
           justifyContent="space-between"
           alignItems="center"
         >
-          <Text fontSize="12px">© 2024  Initializ</Text>
+          <Text fontSize="12px"></Text>
          
         </Flex>
       </Box>
